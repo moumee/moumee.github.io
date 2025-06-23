@@ -11,8 +11,8 @@ I am currently majoring Software Convergence in Kyunghee University. My interest
 Outside of coding, I enjoy playing multiplayer games like Apex Legends, League of Legends, and FC25 with my friends. I'm also a fan of anime and manga, and I enjoy playing futsal.
 
 ### Tools
-Unreal Engine 5
-Unity
-Git
-C++
-Python
+* Unreal Engine 5
+* Unity
+* Git
+* C++
+* Python
