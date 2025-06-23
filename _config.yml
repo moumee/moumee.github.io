@@ -19,7 +19,7 @@ title: Moumee Blog # the main title
 tagline: my devlog # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  moumee, programming, ue5, unity, game development,
+  Explore the game development work of Moumee. This site features a portfolio of projects built with UE5 and Unity, alongside blog posts on programming challenges and solutions.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
