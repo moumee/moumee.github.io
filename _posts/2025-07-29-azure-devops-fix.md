@@ -6,7 +6,7 @@ tags: [git, azure devops]
 
 ---
 
-While working on a project using Azure Devops and Git LFS, I tried to push a large amount of asset files Git put out an error saying **error: failed to push some refs to 'https://dev.azure.com/Moumee/ShatterDuel/_git/ShatterDuel'**.
+While working on a project using Azure Devops and Git LFS, I tried to push a large amount of asset files but Git put out an error saying **error: failed to push some refs to 'https://dev.azure.com/Moumee/ShatterDuel/_git/ShatterDuel'**.
 
 Luckily I found the fix for this issue through a channel in visual studio developer community webpage. [https://developercommunity.visualstudio.com/t/cant-push-large-git-lfs-files-to-repository-from-p/862165](https://developercommunity.visualstudio.com/t/cant-push-large-git-lfs-files-to-repository-from-p/862165)
 
