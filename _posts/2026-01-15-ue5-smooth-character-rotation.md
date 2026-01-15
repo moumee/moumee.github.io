@@ -1,8 +1,8 @@
 ---
 title: "Unreal Engine 5 Smooth Character Rotation"
-date: 2026-01-15 00:00:00 +2300
-categories: [Devlog, Unreal Engine 5, Multiplayer]
-tags: [ue5, multiplayer]
+date: 2026-01-15 00:00:00 +2200
+categories: [Devlog, Unreal Engine 5]
+tags: [ue5, animation]
 
 ---
 
