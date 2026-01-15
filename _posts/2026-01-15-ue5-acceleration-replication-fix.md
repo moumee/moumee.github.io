@@ -39,7 +39,7 @@ void ACharacter::GatherCurrentMovement()
 }
 ```
 
-To enable this acceleration replication feature, you can either override the **ACharacter::ShouldReplicateAcceleration** function or use can use the CVar **p.EnableCharacterAccelerationReplication 1**.
+To enable this acceleration replication feature, you can either override the **ACharacter::ShouldReplicateAcceleration** function or use the CVar **p.EnableCharacterAccelerationReplication 1**.
 
 This feature was crucial for my project since it uses distance matched stops and heavily relies on the transition based on whether there is acceleration or not.
 

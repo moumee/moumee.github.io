@@ -14,6 +14,6 @@ _UE5 repository pull request_
 ![UE5 Commit History](/assets/img/posts/2025-06-23/ue5_commit_history.png){: w="850 h="185 }
 _UE5 repository commit history_
 
-The pull request I made was actually kind of wrong. When I forked the UE5 repository, the default branch was set to 'release' so I accidentally created a branch from the 'release' not the 'ue5-main'. But thankfully, Epic games developers made a new commit in the ue5-main branch referencing my pull request. Next time when I make a new pull request for UE5, I should remember to create a branch from ue5-main.  
+The pull request I made was actually kind of wrong. When I forked the UE5 repository, the default branch was set to 'release' so I accidentally created a branch from the 'release' not the 'ue5-main'. But thankfully, Epic games developers made a new commit in the ue5-main branch referencing my pull request.
 
-Although my pull request may be a very trivial fix, I am very happy to contribute to one of the most used and famous game engines. In the future I wish to contribute more performance related complex code.
+Although my pull request may be a very trivial fix, I am very happy to contribute to one of the most used and famous game engines.
