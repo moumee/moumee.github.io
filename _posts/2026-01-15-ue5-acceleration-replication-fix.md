@@ -6,9 +6,7 @@ tags: [ue5, multiplayer]
 
 ---
 
-I was working on a solo multiplayer ue5 project and faced upon a problem where acceleration does not replicate properly.
-
-Due to this problem, my some of my animation state transitions which were using a bool to check if the character has acceleration were delayed a lot.
+I was working on a solo multiplayer ue5 project and faced upon a problem where acceleration does not replicate properly. Due to this problem, some of my animation state transitions which were using a bool to check if the character has acceleration were delayed a lot.
 
 In **ACharacter** class, you can find **ShouldReplicateAcceleration** function.
 
