@@ -24,17 +24,17 @@ void ACharacter::GatherCurrentMovement()
 
     if (IsReplicatingMovement())
     {
-    FRepMovement& MutableRepMovement = GetReplicatedMovement_Mutable();
+        FRepMovement& MutableRepMovement = GetReplicatedMovement_Mutable();
 
-    if (ShouldReplicateAcceleration()) 
-    {
-        MutableRepMovement.bRepAcceleration = true;
-        MutableRepMovement.Acceleration = CharacterMovement->GetCurrentAcceleration();
-    }
-    else
-    {
-        MutableRepMovement.bRepAcceleration = false;
-    }
+        if (ShouldReplicateAcceleration()) 
+        {
+            MutableRepMovement.bRepAcceleration = true;
+            MutableRepMovement.Acceleration = CharacterMovement->GetCurrentAcceleration();
+        }
+        else
+        {
+            MutableRepMovement.bRepAcceleration = false;
+        }
     }
 }
 ```
