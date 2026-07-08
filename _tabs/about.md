@@ -6,7 +6,7 @@ order: 4
 
 ### Seunghwan Lee
 
-I am currently majoring Software Convergence in Kyunghee University and participating as an undergradute researcher at KHU-CGLAB.
+I am currently majoring Software Convergence at Kyunghee University and participating as an undergradute researcher at KHU-CGLAB.
 
 Currently studying low-level computer graphics and computer vision.
 
