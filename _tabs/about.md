@@ -6,11 +6,13 @@ order: 4
 
 ### Seunghwan Lee
 
-I am currently majoring Software Convergence in Kyunghee University. My interest is game programming and graphics engineering.
+I am currently majoring Software Convergence in Kyunghee University and participating as an undergradute researcher at KHU-CGLAB.
 
-### Hobby
+Currently studying low-level computer graphics and computer vision.
 
-Outside of coding, I enjoy playing multiplayer games like Apex Legends, League of Legends, and FC25 with my friends. I'm also a fan of anime and manga, and I enjoy playing futsal.
+### About Me
+
+I like singing, going on walks and playing football. I also enjoy developing games and editing videos.
 
 ### Tools
 
